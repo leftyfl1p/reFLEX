@@ -1,0 +1,9 @@
+Package: com.leftyfl1p.reflex
+Name: reFLEX
+Depends: mobilesubstrate, libactivator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Another best FLEX manager. Configure with Activator. If you want something done right, do it yourself. 
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Section: Tweaks
